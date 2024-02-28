@@ -1,12 +1,11 @@
 # Brain-MRI-Simulation
 
-Brain MR image simulation code for generating data with variable contrast, resolution and SNR. The code is an extension on the initial implementation of the [MRXCAT](https://jcmr-online.biomedcentral.com/articles/10.1186/s12968-014-0063-3) MATLAB code (avaialble [here](https://biomed.ee.ethz.ch/mrxcat.html) for simulating cardiac MRI.
+Brain MR image simulation code for generating data with variable contrast, resolution and SNR. The code is an extension on the initial implementation of the [MRXCAT](https://jcmr-online.biomedcentral.com/articles/10.1186/s12968-014-0063-3) MATLAB code (avaialble [here](https://biomed.ee.ethz.ch/mrxcat.html)) for simulating cardiac MRI.
 ## Installation
 Clone this repo:
 
 ```copy
 git clone https://github.com/Aymen-Ayaz/Brain-MRI-Simulation
-
 cd Brain-MRI-Simulation/
 ```
 
