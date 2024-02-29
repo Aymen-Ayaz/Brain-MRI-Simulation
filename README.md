@@ -12,4 +12,4 @@ cd Brain-MRI-Simulation/
 This code was tested on MATLAB 2018b. To produce the simulated images, you would need to have the XCAT .bin subject for simulation. The .bin files for this study could be provided upon request. Note that the XCAT is a separate software which offers computerized human anatomical models for simulation. The XCAT software is available [here](https://otc.duke.edu/industry-investors/available-technologies/xcat/) 
 
 ## License
-openGTN simulated / synthetic MRI data by EU Marie Curie ITN-EID program (project 764465) is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License available at [CC](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+[openGTN](https://opengtn.eu/) simulated / synthetic MRI data by EU Marie Curie ITN-EID program (project 764465) is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License available at [CC](https://creativecommons.org/licenses/by-nc-nd/4.0/).
